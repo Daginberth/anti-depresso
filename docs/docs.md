@@ -76,4 +76,4 @@ However, if the user starts the day with a very good self perception, the daily 
 ## UI
 The app should have a very basic and simple UX, so that the app is easy to understand and navigate. The app should be as unobtrusive as possible, so the user can use it without getting distracted by the app itself.
 
-A [second iteration of the mockup](https://www.figma.com/file/vaNHqLZ0QN8ZA1GtRwbs9x/AntiDrepresso?node-id=0%3A1&t=u6IE0WmkzuMSRMNX-3) has been created to get a better understanding of the app's UI in conjuction with the needed mechanics.
+A [second iteration of the mockup](https://www.figma.com/proto/vaNHqLZ0QN8ZA1GtRwbs9x/AntiDrepresso?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2) has been created to get a better understanding of the app's UI in conjuction with the needed mechanics.
