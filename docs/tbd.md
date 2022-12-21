@@ -1,4 +1,4 @@
-# to be discussed
+# to be determined
 This app targets a very specific audience, it is important to keep track of any issues that might come up beforehand. For this reason there is this TDB section in the docs of this repo.
 
 ## data privacy
